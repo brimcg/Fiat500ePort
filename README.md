@@ -42,7 +42,7 @@ The process I used followed the supplied instructions.  They were detailed and c
 - Slide inside attachment down and off electrical cable
 - If not already, now is a good time to be wearing rubber insulated gloves to protect you from the wiring, and the wiring from you. (Safety and cleanliness)
 - Slide rubber boot down the cabling to reveal the locking clip
-  - This is a good time to inspect the cabling layout into the pins and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are most likely power pins (L1, L2, and N) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are presumably signaling pins to indicate connection.  Logically, I presume the most critical thing is never get L1 or L2 swapped with N.  Safest option is to carefully transfer each pin to its exact location in the new port
+  - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are most likely power pins (L1, L2, and N) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are presumably signaling pins to indicate connection.  Logically, I presume the most critical thing is never get L1 or L2 swapped with N.  Safest option is to carefully transfer each pin to its exact location in the new port
 - Have the new locking clip within easy reach at this point
 - Use screwdriver to lift each locking tab over its catch until the locking clip is released.
   - Procede with great care from this point forward
@@ -61,6 +61,11 @@ The process I used followed the supplied instructions.  They were detailed and c
 - Place the outside attachment plate over the port and binding posts, then secure with 4 nuts
 
 ### Test
+- Reconnect 12V battery
+- Plug charging cable into port and verify that charging starts properly
+  - If it doesn't then the cable order was likely messed up or some pin was badly contaminated.  Since I didn't suffer this fate, I can't really help provide correcting suggestions other then inspect for cleanliness and compare your assembly to your photos to see if you can identify the error
+- Disconnect charging cable
 
 ### Re-assembly
-
+- Press plastic port surround back into place until it locks in.  It's mounting tabs only allow the proper orientation
+- 
