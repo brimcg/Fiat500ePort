@@ -2,7 +2,7 @@
 ## How I replaced a broken charge port on 2015 Fiat 500e in May 2021
 Into our ownership of a used 500e, the charge port suddenly became loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
-A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.
+A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time and taking photos.
 
 If you chose to follow, your actions are your own.  I can not be held responsible for any outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
 
@@ -68,4 +68,18 @@ The process I used followed the supplied instructions.  They were detailed and c
 
 ### Re-assembly
 - Press plastic port surround back into place until it locks in.  It's mounting tabs only allow the proper orientation
-- 
+- Place the plastic fender well with the wheel area
+- This is what worked for me install the fender well
+  - Place well onto front binding post first, without bothering to get the well underneath the front lips
+  - Carefully press the front of the well into the wheel area until is snaps past the front lips.  This will take some pressure
+  - Locate the well over the center then rear binding posts
+  - Press the upper portion of the well until is snaps under the fender lip
+  - The rear portion of the well remains outside of the fender lip, so don't try to snap it into the lip.  There's a notch in the well at the transition area where the well moves from the inside of the lip to the outside
+  - Snap bottom of well into its retaining clip on the bottom of the fender
+  - Re-install 3 mounting screws on rear of fender well
+  - Re-install 3 plastic mounting nuts onto binding posts protruding through fender well
+- Raise jack slightly to remove safety support
+- Install rear wheel and lug bolts snugly
+- Lower jack and remove
+- Torque lug bolts evenly (80 ft-lbs)
+- Remove wheel chalks and done!
