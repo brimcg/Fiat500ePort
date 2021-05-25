@@ -1,13 +1,13 @@
-# Fiat 500e Port Replacement
+# Fiat 500e Charge Port Replacement
 ## How I replaced a broken charge port on 2015 Fiat 500e in May 2021
 Into our ownership of a used 500e, the charge port suddenly became loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
-A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time and taking photos.
+A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time, some breaks, and taking photos.
 
 If you chose to follow, your actions are your own.  I can not be held responsible for any outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
 
 ## Process
-The process I used followed the supplied instructions.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference
+The process I used followed the instructions supplied with the new port.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference
 
 ### Prep and Access
 - Disconnect 12V battery
