@@ -1,8 +1,10 @@
 # Fiat 500e Port Replacement
-## How I replaced a broken charge port on 2015 Fiat 500e in 5/2021
-A few months into our ownership of a used 500e, the charge port suddenly was loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
+## How I replaced a broken charge port on 2015 Fiat 500e in May 2021
+Into our ownership of a used 500e, the charge port suddenly was loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
-A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for future reference.
+A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.
+
+If you chose to follow, your actions are your own.  I can not be held responsible for any outcomes of your actions.  You assume the risks associated with automotive and electrical repair.
 
 ## Process
 The process I used followed the supplied instructions.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference
