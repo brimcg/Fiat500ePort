@@ -39,8 +39,26 @@ The process I used followed the supplied instructions.  They were detailed and c
   - This took some prying on ours because of glue buildup from previous repair
 - Push port through hole into fender well
 - Pry plastic binding post away that connects port to inside attachment plate
+- Slide inside attachment down and off electrical cable
+- If not already, now is a good time to be wearing rubber insulated gloves to protect you from the wiring, and the wiring from you. (Safety and cleanliness)
+- Slide rubber boot down the cabling to reveal the locking clip
+  - This is a good time to inspect the cabling layout into the pins and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are most likely power pins (L1, L2, and N) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are presumably signaling pins to indicate connection.  Logically, I presume the most critical thing is never get L1 or L2 swapped with N.  Safest option is to carefully transfer each pin to its exact location in the new port
+- Have the new locking clip within easy reach at this point
+- Use screwdriver to lift each locking tab over its catch until the locking clip is released.
+  - Procede with great care from this point forward
+  - A couple of locking tabs broke while releasing them showing how important it is to replace the locking clip as well as the port
+- Slowly slide the locking clip off the port making sure the pins come with it and maintain their positions within the clip.  Don't let them fall out and lose the wiring order.  Even with photos its hard to identify each cable correctly.
 
 ### Port Installation
+- Take the new locking clip and exactly mimic the orientation next to the old clip
+- Carefully transfer one pin at a time from the old locking clip to the new locking clip making sure each pin position is unchanged in the new locking clip
+- After all pins are transferred to the new locking clip, slide the new pins into their associated holes in the new port
+- Slide the locking clip up over the new port until it fully locks and all of the pins are properly seated
+- Slide the rubber boot up the cabling, over the locking clip until it is fully seated on the new port
+- Slide the inside attachment onto the cable making sure it's orientation will allow it to fit the fender mounting holes
+- Mate the inside attachment with the new port and secure with the plastic binding post
+- Press the port assembly through the fender hole with the binding posts through their associated holes
+- Place the outside attachment plate over the port and binding posts, then secure with 4 nuts
 
 ### Test
 
