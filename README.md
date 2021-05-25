@@ -1,6 +1,6 @@
 # Fiat 500e Port Replacement
 ## How I replaced a broken charge port on 2015 Fiat 500e in 5/2021
-A few months into our ownership of a used 500e, the charge port suddenly was loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in the new platic port housing.
+A few months into our ownership of a used 500e, the charge port suddenly was loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
 A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for future reference.
 
@@ -9,9 +9,9 @@ The process I used followed the supplied instructions.  They were detailed and c
 
 ### Prep and Access
 - Disconnect 12V battery
-- Chalk driver rear wheel
-- Pop hubcap cover
-- Loosen lug bolts (17mm) on passenger rear wheel under charge port
+- Set parking brake and chalk driver rear wheel
+- Pop hubcap cover on passenger rear wheel
+- Loosen lug bolts (17mm)
 - Jack car
   - Borrowed scissor jack from my Mazda
     - Located it surrounding pinch weld in the rear.  It barely clears the fat weld and I had to avoid bent areas from someone else's previous poor attempts
@@ -26,8 +26,8 @@ The process I used followed the supplied instructions.  They were detailed and c
   - Pull interior side off rear-most stud, then center stud
   - Pull exterior side from under fender lip working from rear forward until it became too hard
   - Pull interior side off front-most stud.  This took some work.
-  - Pull remaining exterior side from under fender lip.  This also took some work and pulling, but it eventually popped out
-  - Remove fender well cover from the area which exposes the electrical leads and port
+  - Pull remaining exterior side from under fender lip.  This also took some work and pulling, but it eventually popped loose
+  - Remove fender well cover from the wheel area which exposes the electrical leads and port
 
 ### Port Removal
 
