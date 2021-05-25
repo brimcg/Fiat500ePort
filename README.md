@@ -11,7 +11,7 @@ The process I used followed the instructions supplied with the new port.  They w
 
 ### Prep and Access
 - Disconnect 12V battery
-- Set parking brake and chalk driver rear wheel
+- Set parking brake and chock driver rear wheel
 - Pop hubcap cover on passenger rear wheel
 - Loosen lug bolts (17mm)
 - Jack car
@@ -82,4 +82,4 @@ The process I used followed the instructions supplied with the new port.  They w
 - Install rear wheel and lug bolts snugly
 - Lower jack and remove
 - Torque lug bolts evenly (80 ft-lbs)
-- Remove wheel chalks and done!
+- Remove wheel chocks and done!
