@@ -53,15 +53,15 @@ The process I used followed the instructions supplied with the new port.  They w
   - ![Inside attachment plate](images/2021-05-25_20-53-32.png)
 - If not already, now is a good time to be wearing rubber insulated gloves to protect you from the wiring, and the wiring from you. (Safety and cleanliness)
 - Slide rubber boot down the cabling to reveal the locking clip
-  - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are most likely power pins (L1, L2, and N) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are presumably signaling pins to indicate connection.  Logically, I presume the most critical thing is never get L1 or L2 swapped with N.  Safest option is to carefully transfer each pin to its exact location in the new port
+  - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are power pins (L1, L2(240V) or N(120V), and GND) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are  signaling pins to indicate connection parameters.  Safest option is to carefully transfer each pin to its exact location in the new port.  [Reference -> [Wikipedia SAE J1772](https://en.wikipedia.org/wiki/SAE_J1772)]
   - ![Boot](images/2021-05-25_20-54-57.png)
+  - ![Port and pins](images/2021-05-25_20-55-31.png)
 - Have the new locking clip within easy reach at this point
 - Use screwdriver to lift each locking tab over its catch until the locking clip is released.
   - Procede with great care from this point forward
   - A couple of locking tabs broke while releasing them showing how important it is to replace the locking clip as well as the port
 - Slowly slide the locking clip off the port making sure the pins come with it and maintain their positions within the clip.  Don't let them fall out and lose the wiring order.  Even with photos its hard to identify each cable correctly.
   - ![Locking clip](images/2021-05-25_20-56-09.png)
-  - ![Port and pins](images/2021-05-25_20-55-31.png)
 
 ### Port Installation
 - Take the new locking clip and exactly mimic the orientation next to the old clip
