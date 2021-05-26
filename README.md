@@ -6,7 +6,7 @@ Sometime into our ownership of a used 500e, the charge port became loose when co
 
 A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time, some breaks, and taking photos.
 
-If you chose to follow, your actions are your own.  I can not be held responsible for any errors nor the outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
+If you choose to follow, your actions are your own.  I can not be held responsible for any errors nor the outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
 
 ## Process
 The process I used followed the instructions supplied with the new port.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference (when I have to do it again)
