@@ -1,13 +1,13 @@
 # Fiat 500e Charge Port Replacement
 ## How I replaced a broken charge port on 2015 Fiat 500e in May 2021
-Into our ownership of a used 500e, the charge port suddenly became loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
+Sometime into our ownership of a used 500e, the charge port became loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
 A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time, some breaks, and taking photos.
 
-If you chose to follow, your actions are your own.  I can not be held responsible for any outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
+If you chose to follow, your actions are your own.  I can not be held responsible for any errors nor the outcomes of your actions.  You assume all the risks associated with automotive and electrical repair.
 
 ## Process
-The process I used followed the instructions supplied with the new port.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference
+The process I used followed the instructions supplied with the new port.  They were detailed and complete but contained no drawings or images for guidance.  I'm documenting my process here for better reference (when I have to do it again)
 
 ### Prep and Access
 - Disconnect 12V battery
@@ -16,38 +16,52 @@ The process I used followed the instructions supplied with the new port.  They w
 - Loosen lug bolts (17mm)
 - Jack car
   - Borrowed scissor jack from my Mazda
-    - Located it surrounding pinch weld in the rear.  It barely clears the fat weld and I had to avoid bent areas from someone else's previous poor attempts
+    - Located it surrounding pinch weld in the rear.  It barely clears the fat weld and I had to avoid bent areas from someone else's previous poor attempt
   - Lumber stack under shock mount for safety stand
+  - ![Car on jack](images/2021-05-25_17-09-01.png)
 - Remove bolts and wheel
   - Lowered jack slightly to place partial weight onto lumber stack to avoid potential drops
 - Remove fender well cover attachments
   - 3 plastic nuts on center interior side
+  - ![Fender well studs](images/2021-05-25_17-10-53.png)
+  - ![Fender well studs](images/2021-05-25_17-12-34.png)
   - 3 screws on rear exterior side
+  - ![Fender well screws](images/2021-05-25_17-11-37.png)
+  - ![Fender well screws](images/2021-05-25_20-49-43.png)
 - Remove fender well cover
   - Disconnect rear catch
+  - ![Fender well clip](images/2021-05-25_20-59-10.png)
   - Pull interior side off rear-most stud, then center stud
   - Pull exterior side from under fender lip working from rear forward until it became too hard
   - Pull interior side off front-most stud.  This took some work.
   - Pull remaining exterior side from under fender lip.  This also took some work and pulling, but it eventually popped loose
   - Remove fender well cover from the wheel area which exposes the electrical leads and port
+  - ![Electrical view](images/2021-05-25_20-51-43.png)
 
 ### Port Removal
 - Remove plastic port surround
   - Use plastic pry tool to avoid scratching paint.  There are two connecting tabs on the backside to the left and the right of the center hole
-- Remove 4 nuts from attachment plate
+  - ![Surround](images/2021-05-25_20-52-21.png)
+- Remove 4 nuts from outside attachment plate
+  - ![Outside attachment plate](images/2021-05-25_20-52-53.png)
 - Remove outside attachment plate
   - This took some prying on ours because of glue buildup from previous repair
 - Push port through hole into fender well
 - Pry plastic binding post away that connects port to inside attachment plate
-- Slide inside attachment down and off electrical cable
+  - ![Binding post](images/2021-05-25_20-54-09.png)
+- Slide inside attachment plate down and off electrical cable
+  - ![Inside attachment plate](images/2021-05-25_20-53-32.png)
 - If not already, now is a good time to be wearing rubber insulated gloves to protect you from the wiring, and the wiring from you. (Safety and cleanliness)
 - Slide rubber boot down the cabling to reveal the locking clip
   - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are most likely power pins (L1, L2, and N) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are presumably signaling pins to indicate connection.  Logically, I presume the most critical thing is never get L1 or L2 swapped with N.  Safest option is to carefully transfer each pin to its exact location in the new port
+  - ![Boot](images/2021-05-25_20-54-57.png)
 - Have the new locking clip within easy reach at this point
 - Use screwdriver to lift each locking tab over its catch until the locking clip is released.
   - Procede with great care from this point forward
   - A couple of locking tabs broke while releasing them showing how important it is to replace the locking clip as well as the port
 - Slowly slide the locking clip off the port making sure the pins come with it and maintain their positions within the clip.  Don't let them fall out and lose the wiring order.  Even with photos its hard to identify each cable correctly.
+  - ![Locking clip](images/2021-05-25_20-56-09.png)
+  - ![Port and pins](images/2021-05-25_20-55-31.png)
 
 ### Port Installation
 - Take the new locking clip and exactly mimic the orientation next to the old clip
@@ -63,7 +77,7 @@ The process I used followed the instructions supplied with the new port.  They w
 ### Test
 - Reconnect 12V battery
 - Plug charging cable into port and verify that charging starts properly
-  - If it doesn't then the cable order was likely messed up or some pin was badly contaminated.  Since I didn't suffer this fate, I can't really help provide correcting suggestions other then inspect for cleanliness and compare your assembly to your photos to see if you can identify the error
+  - If it doesn't then the cable order was likely messed up or some pin was badly contaminated.  Since I didn't suffer this fate, I can't really help provide correcting suggestions other than inspect for cleanliness and compare your assembly to your photos to see if you can identify the error
 - Disconnect charging cable
 
 ### Re-assembly
