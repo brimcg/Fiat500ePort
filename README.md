@@ -1,5 +1,7 @@
 # Fiat 500e Charge Port Replacement
-## How I replaced a broken charge port on 2015 Fiat 500e in May 2021
+## How I replaced a broken charge port on 2015 Fiat 500e
+May 23, 2021
+
 Sometime into our ownership of a used 500e, the charge port became loose when connecting the charge cable.  Upon closer inspection, we could see where it had been previously broken and glued.  That repair failed.  Looking at 500e forum, it was clear that dealership repair was outrageously expensive but that there was a fairly straightforward DIY fix.  Fortunately, the repair does not require any major change to the electrical lines.  It is just removing the current electrical pins from the broken plastic port housing and placing them in a new plastic port housing.
 
 A search on eBay for a replacement charge port yielded a hit for a port with instructions that matched the process mentioned as successful in the forum.  I'm documenting it for my personal future reference.  The whole job took a few hours with me taking my time, some breaks, and taking photos.
@@ -53,8 +55,8 @@ The process I used followed the instructions supplied with the new port.  They w
   - ![Inside attachment plate](images/2021-05-25_20-53-32.png)
 - If not already, now is a good time to be wearing rubber insulated gloves to protect you from the wiring, and the wiring from you. (Safety and cleanliness)
 - Slide rubber boot down the cabling to reveal the locking clip
-  - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are power pins (L1, L2(240V) or N(120V), and GND) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are  signaling pins to indicate connection parameters.  We will carefully transfer each pin to its exact location in the new port.  [Reference -> [Wikipedia SAE J1772](https://en.wikipedia.org/wiki/SAE_J1772)]
   - ![Boot](images/2021-05-25_22-59-13.png)
+  - This is a good time to inspect the cabling layout into the port and photograph the layout to help if something goes wrong. There are 3 longer, larger pins that are power pins (L1, L2(240V) or N(120V), and GND) arranged in an inverted triangular configuration, and 2 shorter, smaller pins tucked to either side of the triangle that are  signaling pins to indicate connection parameters.  We will carefully transfer each pin to its exact location in the new port.  [Reference -> [Wikipedia SAE J1772](https://en.wikipedia.org/wiki/SAE_J1772)]
   - ![Port and pins](images/2021-05-25_20-55-31.png)
 - Have the new locking clip within easy reach at this point
 - Use screwdriver to lift each locking tab over its catch until the locking clip is released.
